@@ -1,7 +1,7 @@
 ### Website Link --
 https://ya-yashawasthi-13.github.io/Html-Portfolio/
 
-
+---
 
 # 🎨 HTML Portfolio – Birthday Invite & Movie Ranking Projects
 
@@ -31,12 +31,3 @@ A simple web page listing my top 3 favorite movies. Each entry includes:
 
 
 ---
-
-### 📁 Folder Structure
-
-html-portfolio/
-│
-├── birthday-invite.html
-├── movie-ranking.html
-└── README.md
-
